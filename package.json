@@ -1,0 +1,16 @@
+{
+  "name": "click-analyzer",
+  "version": "1.0.0",
+  "description": "Application to analyze clicks",
+  "main": "index.js",
+  "scripts": {
+    "solution": "node client.js",
+    "test": "jasmine-node tests"
+  },
+  "author": "Nikhil Tulsyan",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine-node": "^3.0.0"
+  }
+}
